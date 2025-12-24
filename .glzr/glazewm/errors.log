@@ -1,0 +1,56 @@
+[2m2025-06-07T06:18:36.895231Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-07T06:19:33.227727Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-12T15:16:40.227280Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The operation completed successfully. (0x00000000)
+[2m2025-06-13T05:46:21.548241Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The operation completed successfully. (0x00000000)
+[2m2025-06-17T05:48:40.652671Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-17T05:52:31.898796Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[22]: duplicate field `bindings` at line 205 column 5
+[2m2025-06-17T10:35:20.364577Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'obisidian'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-06-17T10:37:47.001287Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'obsidian'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-06-17T10:38:05.261664Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'Obsidian'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-06-17T10:48:28.698323Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'Obsidian'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-06-17T10:49:52.761763Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected hexadecimal number at line 196 column 32, while parsing a quoted scalar at line 196 column 16
+[2m2025-06-19T09:08:21.640451Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The operation completed successfully. (0x00000000)
+[2m2025-06-20T15:54:33.750177Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The handle is invalid. (0x80070006)
+[2m2025-06-27T10:34:15.566312Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The handle is invalid. (0x80070006)
+[2m2025-06-27T10:37:10.344146Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-06-27T10:37:20.681353Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-06-27T10:37:21.183591Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-06-27T10:58:51.042085Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-27T10:58:51.500055Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-27T10:59:42.405951Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-27T14:04:02.665836Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The operation completed successfully. (0x00000000)
+[2m2025-07-09T02:00:26.935789Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The operation completed successfully. (0x00000000)
+[2m2025-07-14T16:37:37.406651Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The handle is invalid. (0x80070006)
+[2m2025-07-21T11:54:21.959877Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid monitor handle. (0x800705B5)
+[2m2025-07-27T18:51:53.167897Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The handle is invalid. (0x80070006)
+[2m2025-08-07T17:05:51.365609Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid monitor handle. (0x800705B5)
+[2m2025-08-09T16:40:44.619189Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid monitor handle. (0x800705B5)
+[2m2025-08-18T05:56:50.526934Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The handle is invalid. (0x80070006)
+[2m2025-08-18T17:07:58.287228Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The operation completed successfully. (0x00000000)
+[2m2025-08-27T17:15:46.213830Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The operation completed successfully. (0x00000000)
+[2m2025-08-29T07:08:39.277458Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The handle is invalid. (0x80070006)
+[2m2025-08-30T18:42:51.056792Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid monitor handle. (0x800705B5)
+[2m2025-09-03T18:28:03.316459Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The operation completed successfully. (0x00000000)
+[2m2025-09-05T07:41:27.053717Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid monitor handle. (0x800705B5)
+[2m2025-09-06T19:36:25.005545Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The handle is invalid. (0x80070006)
+[2m2025-09-12T17:17:54.054732Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid monitor handle. (0x800705B5)
+[2m2025-09-12T17:18:20.855122Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-10-12T01:12:16.317766Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid monitor handle. (0x800705B5)
+[2m2025-10-19T13:34:25.329787Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m The handle is invalid. (0x80070006)
+[2m2025-10-27T12:38:05.426874Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-10-27T12:38:17.246620Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-10-27T12:38:19.214617Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-10-27T12:38:20.023689Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-10-27T12:38:21.321643Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-10-27T12:38:21.984220Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-10-27T12:38:23.254552Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-11-23T10:49:43.266892Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-12-14T11:19:41.619245Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid monitor handle. (0x800705B5)
