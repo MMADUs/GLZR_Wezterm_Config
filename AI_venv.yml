@@ -1,0 +1,6 @@
+name: torch
+channels:
+  - defaults
+dependencies:
+  - python=3.12.6
+prefix: C:\Users\izbac\miniconda3\envs\torch
